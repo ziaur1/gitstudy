@@ -1,2 +1,2 @@
-# gitstudy
+# gitstudy1
 git
